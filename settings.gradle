@@ -1,0 +1,2 @@
+rootProject.name='SqliteQuizJava'
+include ':app'
